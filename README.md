@@ -31,4 +31,4 @@ If you are unable to see your hosted network after starting the application, the
 
 If you still can't see it, then you might need to check your Firewall (either Windows or Anti-virus, or both), you can try disabling it and check to see if the hosted network can be seen then
 
-If you still can't see it, then please post a new [issue](../issues) regarding it
+If you still can't see it, then please post a new [issue](../issues/new) regarding it
