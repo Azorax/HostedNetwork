@@ -19,12 +19,12 @@ If you are on Windows 10, you should have a built-in [Mobile Hotspot](https://su
 
 ## Issues
 
-If you are unable to see your hosted network after starting the application, then you might need to Sharing options in your Windows Settings.
+If you are unable to see your hosted network after starting the application, then you might need to change the Sharing options in your Network Settings.
 
 - Open the 'Run' menu (can be accessed from Start menu)
 - Type in `ncpa.cpl`
-- Right-click on your primary network connection (it could be the Ethernet or the Wifi, however Ethernet will be used over Wifi) and click Properties
-- Click on the Sharing tab
-- Tick the 'Allow other users to connect through this computer's Internet Connection'
+- Right-click on your `primary network connection` (it could be your Ethernet or the Wi-fi connection, however Ethernet will supersede Wi-fi) and click `Properties`
+- Click on the `Sharing` tab
+- Tick the `Allow other users to connect through this computer's Internet Connection`
 - You should now have a dropdown under it, select to share connection with `Local Area Connection* ##`
 - Done, see if the hosted network can be seen now
